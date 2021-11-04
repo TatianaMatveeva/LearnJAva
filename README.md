@@ -1,3 +1,3 @@
-# LearnJAva
+# LearnJava
 
 learn Java core
